@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationDemo</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="api_key">AIzaSyCuJHFG1nRbCRBfxBYP0fcUXVPHk6pV6og</string>
+    <string name="routes_api_key">AIzaSyCEM23jjrsHB6uhShHp0nA3P-MXzpZx3WM</string>
+
+</resources>
